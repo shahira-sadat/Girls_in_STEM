@@ -28,7 +28,7 @@ Group Project of girlsinSTEM event
 
 
 ## Screenshots
-![Example screenshot](Screen Shot 2021-07-11 at 9.42.36 PM.png)
+![Example screenshot](./assets/img/screenshot.png)
 
 
 
