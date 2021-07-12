@@ -10,8 +10,6 @@ Group Project of girlsinSTEM event
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-
 
 ## General Information
 - Course Hero is static design of e-leaning website which is created in GirlsinSTEM event.
@@ -30,11 +28,12 @@ Group Project of girlsinSTEM event
 ![First page screenshot](assets/img/sc1.png)
 ![page screenshot](assets/img/sc2.png)
 
-
+## Demo
+Check demo here [Project Demo]( https://shahira-sadat.github.io/Girls_in_STEM)
 
 ## Acknowledgements
 - This project was inspired by a template
-- This project was based on [this template](https://www.example.com).
+- This project was based on [https://wpfreecloud.com/).
 - Many thanks to...
 
 
