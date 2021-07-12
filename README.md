@@ -33,9 +33,7 @@ Check demo here [Project Demo]( https://shahira-sadat.github.io/Girls_in_STEM)
 
 ## Acknowledgements
 - This project was inspired by a template
-- This project was based on [https://wpfreecloud.com/).
-- Many thanks to...
-
+This project is based on a template from [This website](https://wpfreecloud.com/)
 
 ## Contact
 Created by [@TeamA](https://www.xyz.com/) - feel free to contact me!
