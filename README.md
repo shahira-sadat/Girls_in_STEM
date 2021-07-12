@@ -28,7 +28,8 @@ Group Project of girlsinSTEM event
 
 
 ## Screenshots
-![First page screenshot](screenshot.png)
+![First page screenshot](assets/img/sc1.png)
+![page screenshot](assets/img/sc2.png)
 
 
 
