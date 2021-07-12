@@ -23,10 +23,9 @@ Group Project of girlsinSTEM event
 - Bootstrap
 - Javascript
 
-
 ## Screenshots
-![First page screenshot](assets/img/sc1.png)
-![page screenshot](assets/img/sc2.png)
+![page screenshot](sc1.png)
+![page screenshot](sc2.png)
 
 ## Demo
 Check demo here [Project Demo]( https://shahira-sadat.github.io/Girls_in_STEM)
