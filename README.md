@@ -9,6 +9,7 @@ Group Project of girlsinSTEM event
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
+* [Demo](#demo)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
@@ -31,6 +32,8 @@ Group Project of girlsinSTEM event
 ![First page screenshot](./assets/img/screenshot.png)
 
 
+## Demo
+Check demo here [Project Demo]( https://shahira-sadat.github.io/Girls_in_STEM)
 
 ## Acknowledgements
 - This project was inspired by a template
