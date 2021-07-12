@@ -3,7 +3,7 @@ Group Project of girlsinSTEM event
 
 # Course Hero
 > Static design of an online platform for learning (E-learning website)
-> Live demo [_here_](https://www.example.com).
+> Live demo [_here_](https://shahira-sadat.github.io/Girls_in_STEM/).
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,7 +11,6 @@ Group Project of girlsinSTEM event
 * [Screenshots](#screenshots)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
 
 
 ## General Information
